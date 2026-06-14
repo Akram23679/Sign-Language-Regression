@@ -129,6 +129,3 @@ Built with [MediaPipe](https://developers.google.com/mediapipe),
 [TensorFlow Lite](https://ai.google.dev/edge/litert), and the Flutter packages
 `hand_landmarker`, `tflite_flutter`, `camera`, and `flutter_tts`.
 
-## License
-
-MIT — see [LICENSE](LICENSE).
